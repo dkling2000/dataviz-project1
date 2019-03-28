@@ -1,0 +1,53 @@
+,State ,Average Temperature ?, Population,,,State Abb,Sum of Total Score,Count of City2,State,Inches,Milli­metres,Rank by Percipitation,State,Place,% Sun,Total Hours,Clear Days
+Alabama ,Alabama ,62.68°F,"4,817,678",  Alabama,  AL, AL,185.48,4,Alabama,58.3,1480,4,Alabama,Birmingham,58,2641,99
+Alaska ,Alaska ,32.03°F,"728,300",  Alaska,  AK, AK,110.74,2,Alaska,22.5,572,39,Alaska,Anchorage,41,2061,61
+Arizona ,Arizona ,65.97°F,"6,561,516",  Arizona,  AZ, AR,84.73,2,Arizona,13.6,345,47,Arizona,Tucson,85,3806,193
+Arkansas ,Arkansas ,60.09°F,"2,947,036",  Arkansas,  AR, AZ,541.98,9,Arkansas,50.6,1284,8,Arkansas,Fort Smith,61,2771,123
+California ,California ,61.17°F,"38,066,920",  California,  CA, CA,1760.69,29,California,22.2,563,40,California,San Diego,68,3055,146
+Colorado ,Colorado ,46.26°F,"5,197,580",  Colorado,  CO, CO,185.2,3,Colorado,15.9,405,44,Colorado,Grand Junction,71,3204,136
+Connecticut ,Connecticut ,48.60°F,"3,592,053",  Connecticut,  CT, CT,96.48,2,Connecticut,50.3,1279,9,Connecticut,Hartford,56,2585,82
+Delaware ,Delaware ,54.48°F,"917,060",  Delaware,  DE, DC,61.68,1,Delaware,45.7,1160,16,Delaware,Wilmington,–,–,97
+District of Columbia ,District of Columbia ,54.73°F,"633,736",  Florida,  FL, DE,102.26,2,Florida,54.5,1385,5,Florida,Tampa,66,2927,101
+Florida ,Florida ,71.80°F,"19,361,792",  Georgia,  GA, FL,638.8,11,Georgia,50.7,1287,7,Georgia,Macon,66,2986,112
+Georgia ,Georgia ,62.30°F,"9,907,756",  Hawaii,  HI, GA,145.11,3,Hawaii,63.7,1618,1,Hawaii,Honolulu,71,–,90
+Hawaii ,Hawaii ,72.95°F,"1,392,704",  Idaho,  ID, HI,130.98,2,Idaho,18.9,481,42,Idaho,Boise,64,2993,120
+Idaho ,Idaho ,46.32°F,"1,599,464",  Illinois,  IL, IA,129.07,2,Illinois,39.2,996,27,Illinois,Peoria,56,2567,95
+Illinois ,Illinois ,51.37°F,"12,868,747",  Indiana,  IN, ID,120.14,2,Indiana,41.7,1060,26,Indiana,Indianapolis,55,2440,88
+Indiana ,Indiana ,51.81°F,"6,542,411",  Iowa,  IA, IL,116.25,2,Iowa,34,864,31,Iowa,Des Moines,59,2691,105
+Iowa ,Iowa ,48.14°F,"3,078,116",  Kansas,  KS, IN,95.46,2,Kansas,28.9,733,35,Kansas,Wichita,65,2922,128
+Kansas ,Kansas ,54.68°F,"2,882,946",  Kentucky,  KY, KS,117.16,2,Kentucky,48.9,1242,12,Kentucky,Louisville,56,2514,93
+Kentucky ,Kentucky ,55.62°F,"4,383,272",  Louisiana,  LA, KY,104.44,2,Louisiana,60.1,1528,2,Louisiana,New Orleans,57,2649,101
+Louisiana ,Louisiana ,66.74°F,"4,601,049",  Maine,  ME, LA,140.72,3,Maine,42.2,1072,23,Maine,Portland,57,2513,101
+Maine ,Maine ,43.09°F,"1,328,535",  Maryland,  MD, MA,110.73,2,Maryland,44.5,1131,18,Maryland,Baltimore,57,2582,105
+Maryland ,Maryland ,54.61°F,"5,887,776",  Massachusetts,  MA, MD,104.22,2,Massachusetts,47.7,1211,14,Massachusetts,Boston,58,2634,98
+Massachusetts ,Massachusetts ,48.14°F,"6,657,291",  Michigan,  MI, ME,115.38,2,Michigan,32.8,833,32,Michigan,Lansing,51,2392,71
+Michigan ,Michigan ,46.64°F,"9,889,024",  Minnesota,  MN, MI,89.52,2,Minnesota,27.3,693,37,Minnesota,Minneapolis,58,2711,95
+Minnesota ,Minnesota ,42.98°F,"5,383,661",  Mississippi,  MS, MN,130.61,2,Mississippi,59,1499,3,Mississippi,Jackson,61,2720,111
+Mississippi ,Mississippi ,63.50°F,"2,984,345",  Missouri,  MO, MO,147.84,3,Missouri,42.2,1071,24,Missouri,Springfield,60,2690,115
+Missouri ,Missouri ,54.70°F,"6,028,076",  Montana,  MT, MS,85.76,2,Montana,15.3,390,45,Montana,Helena,59,2698,82
+Montana ,Montana ,44.18°F,"1,006,370",  Nebraska,  NE, MT,123.81,2,Nebraska,23.6,599,38,Nebraska,Lincoln,61,2762,117
+Nebraska ,Nebraska ,49.88°F,"1,855,617",  Nevada,  NV, NC,337.62,6,Nevada,9.5,241,50,Nevada,Reno,79,3646,158
+Nevada ,Nevada ,57.30°F,"2,761,584",  New Hampshire,  NH, ND,136.95,2,New Hampshire,43.4,1103,20,New Hampshire,Concord,54,2519,90
+New Hampshire ,New Hampshire ,44.49°F,"1,321,069",  New Jersey,  NJ, NE,126.93,2,New Jersey,47.1,1196,15,New Jersey,Atlantic City,56,2499,94
+New Jersey ,New Jersey ,51.93°F,"8,874,374",  New Mexico,  NM, NH,113.58,2,New Mexico,14.6,370,46,New Mexico,Albuquerque,76,3415,167
+New Mexico ,New Mexico ,53.07°F,"2,080,085",  New York,  NY, NJ,98.71,2,New York,41.8,1062,25,New York,Syracuse,46,2120,63
+New York ,New York ,48.17°F,"19,594,330",  North Carolina,  NC, NM,111.23,2,North Carolina,50.3,1279,9,North Carolina,Greensboro,60,2651,109
+North Carolina ,North Carolina ,58.70°F,"9,750,405",  North Dakota,  ND, NV,206.92,4,North Dakota,17.8,452,43,North Dakota,Bismarck,59,2738,93
+North Dakota ,North Dakota ,40.80°F,"704,925",  Ohio,  OH, NY,216.18,4,Ohio,39.1,993,28,Ohio,Columbus,50,2183,72
+Ohio ,Ohio ,50.88°F,"11,560,380",  Oklahoma,  OK, OH,218.98,5,Oklahoma,36.5,927,30,Oklahoma,Oklahoma City,68,3089,139
+Oklahoma ,Oklahoma ,60.14°F,"3,818,851",  Oregon,  OR, OK,98.09,2,Oregon,27.4,695,36,Oregon,Portland,48,2341,68
+Oregon ,Oregon ,51.27°F,"3,900,343",  Pennsylvania,  PA, OR,115.43,2,Pennsylvania,42.9,1089,21,Pennsylvania,Harrisburg,58,2614,87
+Pennsylvania ,Pennsylvania ,49.80°F,"12,758,729",  Rhode Island,  RI, PA,101.72,2,Rhode Island,47.9,1218,13,Rhode Island,Providence,58,2606,98
+Rhode Island ,Rhode Island ,49.27°F,"1,053,252",  South Carolina,  SC, RI,98.22,2,South Carolina,49.8,1264,11,South Carolina,Columbia,64,2826,115
+South Carolina ,South Carolina ,61.70°F,"4,727,273",  South Dakota,  SD, SC,120.41,2,South Dakota,20.1,511,41,South Dakota,Huron,63,2947,104
+South Dakota ,South Dakota ,45.54°F,"834,708",  Tennessee,  TN, SD,127.04,2,Tennessee,54.2,1376,6,Tennessee,Nashville,56,2510,102
+Tennessee ,Tennessee ,58.11°F,"6,451,365",  Texas,  TX, TN,200.16,4,Texas,28.9,734,34,Texas,Dallas,61,2850,135
+Texas ,Texas ,65.97°F,"26,092,033",  Utah,  UT, TX,963.94,16,Utah,12.2,310,49,Utah,Salt Lake City,66,3029,125
+Utah ,Utah ,49.55°F,"2,858,111",  Vermont,  VT, UT,116.94,2,Vermont,42.7,1085,22,Vermont,Burlington,49,2295,58
+Vermont ,Vermont ,43.74°F,"626,358",  Virginia,  VA, VA,274.26,5,Virginia,44.3,1125,19,Virginia,Richmond,63,2829,100
+Virginia ,Virginia ,55.54°F,"8,185,131",  Washington,  WA, VT,122.12,2,Washington,38.4,976,29,Washington,Seattle,47,2170,58
+Washington ,Washington ,50.47°F,"6,899,123",  West Virginia,  WV, WA,217.95,4,West Virginia,45.2,1147,17,West Virginia,Beckley,–,–,60
+West Virginia ,West Virginia ,53.08°F,"1,853,881",  Wisconsin,  WI, WI,120.56,2,Wisconsin,32.6,829,33,Wisconsin,Madison,54,2428,89
+Wisconsin ,Wisconsin ,44.71°F,"5,724,692",  Wyoming,  WY, WV,81.26,2,Wyoming,12.9,328,48,Wyoming,Lander,68,3073,114
+Wyoming ,Wyoming ,43.47°F,"575,251",,, WY,111.5,2,,,,,,,,,
+,,,,,,Grand Total,10211.94,182,,,,,,,,,
