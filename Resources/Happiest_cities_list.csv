@@ -1,0 +1,183 @@
+City,State abb,Overall Rank,Total Score,Emotional & Physical Well Being Rank,Income & Employment Rank,Community & Environment Rank
+Plano,TX,1,72.3,7,6,8
+Irvine,CA,2,71.86,14,11,5
+Madison,WI,3,71.81,3,14,7
+Fremont,CA,4,71.17,10,37,1
+Huntington Beach,CA,5,69.74,6,46,28
+Fargo,ND,6,69.57,17,20,24
+Grand Prairie,TX,7,69.3,20,35,6
+San Jose,CA,8,68.9,1,18,44
+Scottsdale,AZ,9,68.24,46,13,2
+San Francisco,CA,10,67.53,4,2,125
+Bismarck,ND,11,67.38,25,4,45
+Overland Park,KS,12,67.37,22,56,26
+Santa Rosa,CA,13,67.18,23,53,9
+Austin,TX,14,67.16,15,8,80
+Sioux Falls,SD,15,66.97,11,67,95
+Pearl City,HI,16,66.77,2,147,15
+Glendale,CA,17,66.25,27,102,12
+San Diego,CA,18,66.01,8,36,46
+St. Paul,MN,19,65.79,18,70,66
+Charleston,SC,20,65.48,74,5,4
+Gilbert,AZ,21,65.07,54,48,10
+Anaheim,CA,22,65.02,29,79,34
+Raleigh,NC,23,64.99,13,41,87
+Cape Coral,FL,24,64.96,51,87,3
+Cedar Rapids,IA,25,64.9,41,58,20
+Minneapolis,MN,26,64.82,5,26,137
+Chula Vista,CA,27,64.54,19,117,25
+Pembroke Pines,FL,28,64.51,47,89,14
+Honolulu,HI,29,64.21,55,34,17
+Des Moines,IA,30,64.17,39,85,37
+Irving,TX,31,64.07,28,17,119
+Santa Clarita,CA,32,64,24,112,77
+Chandler,AZ,33,63.83,62,55,16
+Oceanside,CA,34,63.82,16,156,29
+Omaha,NE,35,63.5,56,80,19
+Lincoln,NE,36,63.43,32,86,62
+Oakland,CA,37,63.16,12,75,131
+Billings,MT,38,62.82,61,33,51
+Tempe,AZ,39,62.8,66,54,21
+Garden Grove,CA,40,62.7,37,107,67
+Denver,CO,41,62.41,21,64,116
+Fort Worth,TX,42,62.35,44,90,54
+Burlington,VT,43,62.31,53,10,120
+Peoria,AZ,44,62.3,65,77,23
+Port St. Lucie,FL,45,61.96,76,73,13
+Boise,ID,46,61.94,68,19,48
+Garland,TX,47,61.86,31,120,103
+Aurora,CO,48,61.83,26,121,104
+El Paso,TX,49,61.73,58,98,39
+Arlington,TX,49,61.73,40,128,59
+Washington,DC,51,61.68,9,40,167
+Charlotte,NC,52,61.22,52,92,57
+Fort Lauderdale,FL,53,61.16,59,60,92
+Seattle,WA,54,61.11,36,1,171
+Aurora,IL,55,61.05,38,164,56
+Missoula,MT,56,60.99,57,52,91
+Santa Ana,CA,57,60.96,50,103,73
+Boston,MA,58,60.96,34,12,152
+Colorado Springs,CO,59,60.96,72,69,36
+Durham,NC,60,60.9,30,28,113
+Portland,ME,61,60.83,48,49,149
+Grand Rapids,MI,62,60.33,83,31,49
+Rancho Cucamonga,CA,63,60.14,79,32,68
+Salt Lake City,UT,64,60.11,80,9,82
+Yonkers,NY,65,60.1,45,157,79
+Las Cruces,NM,66,60.08,33,123,69
+Rapid City,SD,67,60.07,86,30,64
+Dallas,TX,68,59.82,35,109,123
+South Burlington,VT,69,59.81,90,63,31
+Virginia Beach,VA,70,59.71,73,105,43
+Long Beach,CA,71,59.58,42,138,108
+Anchorage,AK,72,59.53,84,82,41
+Cheyenne,WY,73,59.51,78,23,127
+Columbia,MD,74,59.47,49,101,138
+Mesa,AZ,75,59.25,77,116,47
+Chesapeake,VA,76,58.63,94,122,27
+Reno,NV,77,58.58,98,50,52
+Tallahassee,FL,78,58.54,91,42,85
+Atlanta,GA,79,58.46,64,88,100
+Oxnard,CA,80,58.36,71,151,30
+Nampa,ID,81,58.2,102,137,11
+Los Angeles,CA,82,58.12,43,104,146
+Orlando,FL,83,58.04,85,24,107
+Portland,OR,84,57.72,92,27,102
+Salem,OR,85,57.71,101,29,90
+Brownsville,TX,86,57.55,95,68,88
+Pittsburgh,PA,87,57.45,112,21,60
+Riverside,CA,88,57.25,100,22,105
+Fontana,CA,89,57.23,106,72,50
+New York,NY,90,57.1,70,152,74
+Nashua,NH,91,57.09,82,100,96
+Huntsville,AL,92,57,130,47,22
+Jersey City,NJ,93,56.85,93,168,33
+West Valley City,UT,94,56.83,103,78,81
+Manchester,NH,95,56.49,96,113,63
+Ontario,CA,96,56.35,107,84,70
+San Antonio,TX,97,56.34,115,57,55
+Amarillo,TX,98,56.21,119,45,78
+Vancouver,WA,99,56.17,108,97,61
+Tampa,FL,100,56.02,121,38,58
+Miami,FL,101,55.97,63,39,179
+Dover,DE,102,55.94,81,61,145
+Moreno Valley,CA,103,55.61,111,108,65
+Glendale,AZ,104,55.36,89,159,86
+Nashville,TN,105,55.34,126,96,35
+Houston,TX,106,55.33,69,132,139
+Chicago,IL,107,55.2,60,175,114
+Columbia,SC,108,54.93,137,7,83
+Greensboro,NC,109,54.9,97,94,98
+Lewiston,ME,110,54.55,151,43,84
+Laredo,TX,111,54.4,75,66,173
+Hialeah,FL,112,54.33,67,160,169
+Lexington-Fayette,KY,113,54.13,113,76,112
+Henderson,NV,113,54.13,120,125,53
+Sacramento,CA,115,53.96,114,59,118
+Modesto,CA,116,53.5,117,81,121
+Newport News,VA,117,53.29,105,155,128
+Tucson,AZ,118,53.19,99,114,134
+Springfield,MO,119,53.03,132,106,71
+St. Petersburg,FL,120,52.76,135,25,133
+Richmond,VA,121,52.66,104,139,157
+Tacoma,WA,122,52.59,109,140,153
+Warwick,RI,123,52.41,136,44,151
+Lubbock,TX,124,52.29,133,16,142
+Casper,WY,125,51.99,161,71,97
+Kansas City,MO,126,51.96,110,148,129
+Phoenix,AZ,127,51.94,87,136,172
+Oklahoma City,OK,128,51.59,155,110,38
+Corpus Christi,TX,129,51.5,145,15,124
+Winston-Salem,NC,130,51.44,116,118,141
+Juneau,AK,131,51.21,160,3,175
+Albuquerque,NM,132,51.15,123,111,150
+Columbus,OH,133,51.14,128,133,111
+Bakersfield,CA,134,50.98,139,74,126
+Bridgeport,CT,135,50.92,88,169,161
+Jacksonville,FL,136,50.55,153,95,72
+Knoxville,TN,137,50.43,166,62,32
+Louisville,KY,138,50.31,158,124,42
+Norfolk,VA,139,49.97,129,129,143
+Chattanooga,TN,140,49.94,167,99,40
+Wichita,KS,141,49.79,138,131,130
+Worcester,MA,142,49.77,125,149,159
+Rochester,NY,143,49.76,134,142,140
+San Bernardino,CA,144,49.56,124,134,166
+Buffalo,NY,145,49.22,144,126,117
+Fresno,CA,146,48.86,127,119,158
+Milwaukee,WI,147,48.75,122,172,147
+Baton Rouge,LA,148,48.56,140,93,168
+Stockton,CA,149,48.35,118,150,165
+Spokane,WA,150,48.08,142,91,176
+Indianapolis,IN,151,47.83,147,177,89
+Fort Wayne,IN,152,47.63,152,143,132
+New Orleans,LA,153,47.57,164,127,76
+North Las Vegas,NV,154,47.19,157,158,99
+Las Vegas,NV,155,47.02,149,146,144
+Tulsa,OK,156,46.5,170,83,110
+Wilmington,DE,157,46.32,156,144,154
+Providence,RI,158,45.81,169,115,122
+New Haven,CT,159,45.56,131,141,182
+Montgomery,AL,160,45.48,143,176,155
+Baltimore,MD,161,44.75,148,161,177
+Jackson,MS,162,44.7,150,178,178
+Shreveport,LA,163,44.59,171,173,75
+Memphis,TN,164,44.45,146,179,156
+Philadelphia,PA,165,44.27,168,165,115
+Columbus,GA,166,44.27,174,154,109
+Fayetteville,NC,167,44.17,159,153,170
+Akron,OH,168,44.05,154,166,174
+Cincinnati,OH,169,43.5,165,145,162
+Fort Smith,AR,170,43.33,176,135,136
+St. Louis,MO,171,42.85,162,170,160
+Augusta,GA,172,42.38,175,163,106
+Mobile,AL,173,42.22,172,174,135
+Newark,NJ,174,41.86,141,182,180
+Huntington,WV,175,41.58,182,51,18
+Little Rock,AR,176,41.4,178,130,101
+Gulfport,MS,177,41.06,179,162,94
+Cleveland,OH,178,40.81,163,180,164
+Birmingham,AL,179,40.78,173,167,163
+Charleston,WV,180,39.68,180,65,93
+Toledo,OH,181,39.48,177,171,148
+Detroit,MI,182,29.19,181,181,181
