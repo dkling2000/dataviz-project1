@@ -1,0 +1,183 @@
+Overall Rank,City,State,City/State,Total Score,Emotional & Physical Well-Being,Income & Employment ,Community & Environment,Recreational,Medical,Bars Average Yelp Rating,Bars Count of Reviews,Bar Count,Cannabis Shop Average Yelp Rating,Cannabis Shop Count of Reviews,Cannabis Shop Count
+1,Plano,TX,"Plano, TX",72.3,7,6,8,illegal,CBD oil,3.9285714285714284,16083.0,49.0,,,
+2,Irvine,CA,"Irvine, CA",71.86,14,11,5,legal,legal,3.810344827586207,22953.0,29.0,5.0,6.0,2.0
+3,Madison,WI,"Madison, WI",71.81,3,14,7,misdemeanor,CBD oil,4.05,11387.0,50.0,,,
+4,Fremont,CA,"Fremont, CA",71.17,10,37,1,legal,legal,3.5925925925925926,8745.0,27.0,,,
+5,Huntington Beach,CA,"Huntington Beach, CA",69.74,6,46,28,legal,legal,4.0625,39297.0,56.0,,,
+6,Fargo,ND,"Fargo, ND",69.57,17,20,24,illegal,legal,3.824324324324324,1893.0,37.0,,,
+7,Grand Prairie,TX,"Grand Prairie, TX",69.3,20,35,6,illegal,CBD oil,3.361111111111111,2684.0,18.0,,,
+8,San Jose,CA,"San Jose, CA",68.9,1,18,44,legal,legal,3.82,48780.0,50.0,3.8125,690.0,8.0
+9,Scottsdale,AZ,"Scottsdale, AZ",68.24,46,13,2,Illegal,legal,4.084905660377358,22274.0,53.0,3.5,32.0,1.0
+10,San Francisco,CA,"San Francisco, CA",67.53,4,2,125,legal,legal,4.13,113196.0,50.0,4.3,1173.0,15.0
+11,Bismarck,ND,"Bismarck, ND",67.38,25,4,45,illegal,legal,3.590909090909091,1110.0,22.0,,,
+12,Overland Park,KS,"Overland Park, KS",67.37,22,56,26,misdemeanor,CBD oil,3.6774193548387095,4908.0,31.0,,,
+13,Santa Rosa,CA,"Santa Rosa, CA",67.18,23,53,9,legal,legal,3.8095238095238093,9631.0,42.0,3.5,210.0,1.0
+14,Austin,TX,"Austin, TX",67.16,15,8,80,illegal,CBD oil,4.16,42182.0,50.0,5.0,20.0,1.0
+15,Sioux Falls,SD,"Sioux Falls, SD",66.97,11,67,95,misdemeanor,illegal,3.7282608695652173,2029.0,46.0,,,
+16,Pearl City,HI,"Pearl City, HI",66.77,2,147,15,illegal,legal,3.4,2426.0,5.0,,,
+17,Glendale,CA,"Glendale, CA",66.25,27,102,12,legal,legal,3.84375,23820.0,80.0,4.642857142857143,89.0,7.0
+18,San Diego,CA,"San Diego, CA",66.01,8,36,46,legal,legal,4.216981132075472,109956.0,53.0,4.25,1994.0,28.0
+19,St. Paul,MN,"St. Paul, MN",65.79,18,70,66,decriminalized,legal,3.8333333333333335,693.0,3.0,,,
+20,Charleston,SC,"Charleston, SC",65.48,74,5,4,misdemeanor,CBD oil,3.9375,27578.0,72.0,,,
+21,Gilbert,AZ,"Gilbert, AZ",65.07,54,48,10,Illegal,legal,4.051724137931035,16073.0,58.0,4.0,240.0,6.0
+22,Anaheim,CA,"Anaheim, CA",65.02,29,79,34,legal,legal,4.2105263157894735,38726.0,57.0,3.5,168.0,5.0
+23,Raleigh,NC,"Raleigh, NC",64.99,13,41,87,decriminalized,CBD oil,4.21,13801.0,50.0,,,
+24,Cape Coral,FL,"Cape Coral, FL",64.96,51,87,3,illegal,legal,3.8484848484848486,4276.0,33.0,,,
+25,Cedar Rapids,IA,"Cedar Rapids, IA",64.9,41,58,20,illegal,CBD oil,3.869047619047619,2431.0,42.0,,,
+26,Minneapolis,MN,"Minneapolis, MN",64.82,5,26,137,decriminalized,legal,4.1,22803.0,50.0,,,
+27,Chula Vista,CA,"Chula Vista, CA",64.54,19,117,25,legal,legal,3.6176470588235294,7465.0,34.0,5.0,18.0,2.0
+28,Pembroke Pines,FL,"Pembroke Pines, FL",64.51,47,89,14,illegal,legal,3.5925925925925926,5283.0,27.0,,,
+29,Honolulu,HI,"Honolulu, HI",64.21,55,34,17,illegal,legal,4.07051282051282,57832.0,78.0,3.9,153.0,5.0
+30,Des Moines,IA,"Des Moines, IA",64.17,39,85,37,illegal,CBD oil,3.965909090909091,4654.0,44.0,,,
+31,Irving,TX,"Irving, TX",64.07,28,17,119,illegal,CBD oil,3.740740740740741,4267.0,27.0,,,
+32,Santa Clarita,CA,"Santa Clarita, CA",64.0,24,112,77,legal,legal,3.793103448275862,6581.0,29.0,,,
+33,Chandler,AZ,"Chandler, AZ",63.83,62,55,16,Illegal,legal,3.9913793103448274,16580.0,58.0,3.5,150.0,5.0
+34,Oceanside,CA,"Oceanside, CA",63.82,16,156,29,legal,legal,4.157894736842105,15845.0,38.0,4.5,7.0,1.0
+35,Omaha,NE,"Omaha, NE",63.5,56,80,19,decriminalized,illegal,4.183673469387755,7033.0,49.0,,,
+36,Lincoln,NE,"Lincoln, NE",63.43,32,86,62,decriminalized,illegal,3.8979591836734695,3306.0,49.0,,,
+37,Oakland,CA,"Oakland, CA",63.16,12,75,131,legal,legal,4.021739130434782,37012.0,46.0,3.857142857142857,248.0,7.0
+38,Billings,MT,"Billings, MT",62.82,61,33,51,illegal,legal,3.6511627906976742,1273.0,43.0,,,
+39,Tempe,AZ,"Tempe, AZ",62.8,66,54,21,Illegal,legal,3.813953488372093,16469.0,43.0,,,
+40,Garden Grove,CA,"Garden Grove, CA",62.7,37,107,67,legal,legal,3.8846153846153846,9816.0,13.0,,,
+41,Denver,CO,"Denver, CO",62.41,21,64,116,legal,legal,4.245762711864407,47030.0,59.0,4.171052631578948,1720.0,38.0
+42,Fort Worth,TX,"Fort Worth, TX",62.35,44,90,54,illegal,CBD oil,4.0,13643.0,52.0,,,
+43,Burlington,VT,"Burlington, VT",62.31,53,10,120,legal,legal,3.76027397260274,9162.0,73.0,,,
+44,Peoria,AZ,"Peoria, AZ",62.3,65,77,23,Illegal,legal,3.75,7366.0,38.0,,,
+45,Port St. Lucie,FL,"Port St. Lucie, FL",61.96,76,73,13,illegal,legal,3.6666666666666665,378.0,3.0,,,
+46,Boise,ID,"Boise, ID",61.94,68,19,48,misdemeanor,illegal,4.06,7948.0,50.0,,,
+47,Garland,TX,"Garland, TX",61.86,31,120,103,illegal,CBD oil,3.272727272727273,1191.0,11.0,,,
+48,Aurora,CO,"Aurora, CO",61.83,26,121,104,legal,legal,3.663793103448276,7370.0,58.0,3.28125,423.0,16.0
+49,Arlington,TX,"Arlington, TX",61.73,40,128,59,illegal,CBD oil,3.829113924050633,13444.0,79.0,,,
+49,El Paso,TX,"El Paso, TX",61.73,58,98,39,illegal,CBD oil,3.858695652173913,4471.0,46.0,,,
+51,Washington,DC,"Washington, DC",61.68,9,40,167,legal,legal,,,,,,
+52,Charlotte,NC,"Charlotte, NC",61.22,52,92,57,decriminalized,CBD oil,4.091836734693878,18337.0,49.0,4.0,9.0,1.0
+53,Fort Lauderdale,FL,"Fort Lauderdale, FL",61.16,59,60,92,illegal,legal,4.135416666666667,23451.0,48.0,,,
+54,Seattle,WA,"Seattle, WA",61.11,36,1,171,legal,legal,4.11,54889.0,50.0,3.95,736.0,20.0
+55,Aurora,IL,"Aurora, IL",61.05,38,164,56,decriminalized,legal,3.663793103448276,7370.0,58.0,3.28125,423.0,16.0
+56,Missoula,MT,"Missoula, MT",60.99,57,52,91,illegal,legal,3.5657894736842106,2851.0,38.0,,,
+57,Santa Ana,CA,"Santa Ana, CA",60.96,50,103,73,legal,legal,4.120689655172414,27635.0,29.0,4.122950819672131,5646.0,61.0
+58,Boston,MA,"Boston, MA",60.96,34,12,152,legal,legal,4.0,62425.0,47.0,,,
+59,Colorado Springs,CO,"Colorado Springs, CO",60.96,72,69,36,legal,legal,4.19,11261.0,50.0,3.7,21.0,10.0
+60,Durham,NC,"Durham, NC",60.9,30,28,113,decriminalized,CBD oil,3.9895833333333335,10653.0,48.0,,,
+61,Portland,ME,"Portland, ME",60.83,48,49,149,legal,legal,4.162037037037037,62976.0,108.0,4.21875,988.0,32.0
+62,Grand Rapids,MI,"Grand Rapids, MI",60.33,83,31,49,legal,legal,3.9479166666666665,8076.0,48.0,,,
+63,Rancho Cucamonga,CA,"Rancho Cucamonga, CA",60.14,79,32,68,legal,legal,3.6578947368421053,35918.0,57.0,,,
+64,Salt Lake City,UT,"Salt Lake City, UT",60.11,80,9,82,misdemeanor,legal,3.8353658536585367,22966.0,82.0,,,
+65,Yonkers,NY,"Yonkers, NY",60.1,45,157,79,decriminalized,legal,3.8125,3406.0,16.0,3.0,5.0,1.0
+66,Las Cruces,NM,"Las Cruces, NM",60.08,33,123,69,illegal,legal,2.933333333333333,909.0,15.0,,,
+67,Rapid City,SD,"Rapid City, SD",60.07,86,30,64,misdemeanor,illegal,3.6714285714285713,2116.0,35.0,,,
+68,Dallas,TX,"Dallas, TX",59.82,35,109,123,illegal,CBD oil,4.101351351351352,41713.0,74.0,,,
+69,South Burlington,VT,"South Burlington, VT",59.81,90,63,31,legal,legal,3.125,531.0,8.0,,,
+70,Virginia Beach,VA,"Virginia Beach, VA",59.71,73,105,43,misdemeanor,CBD oil,4.04,10549.0,50.0,,,
+71,Long Beach,CA,"Long Beach, CA",59.58,42,138,108,legal,legal,3.9901960784313726,34879.0,51.0,5.0,2.0,1.0
+72,Anchorage,AK,"Anchorage, AK",59.53,84,82,41,legal,legal,3.625,9303.0,48.0,3.8846153846153846,80.0,13.0
+73,Cheyenne,WY,"Cheyenne, WY",59.51,78,23,127,misdemeanor,CBD oil,3.25,648.0,22.0,,,
+74,Columbia,MD,"Columbia, MD",59.47,49,101,138,decriminalized,legal,3.7535211267605635,13213.0,71.0,,,
+75,Mesa,AZ,"Mesa, AZ",59.25,77,116,47,Illegal,legal,3.806451612903226,5637.0,31.0,3.611111111111111,204.0,9.0
+76,Chesapeake,VA,"Chesapeake, VA",58.63,94,122,27,misdemeanor,CBD oil,3.392857142857143,1568.0,14.0,,,
+77,Reno,NV,"Reno, NV",58.58,98,50,52,legal,legal,4.2,12506.0,50.0,3.8,306.0,5.0
+78,Tallahassee,FL,"Tallahassee, FL",58.54,91,42,85,illegal,legal,3.989795918367347,5324.0,49.0,5.0,2.0,1.0
+79,Atlanta,GA,"Atlanta, GA",58.46,64,88,100,decriminalized,CBD oil,3.98,35692.0,50.0,,,
+80,Oxnard,CA,"Oxnard, CA",58.36,71,151,30,legal,legal,3.6666666666666665,3168.0,18.0,,,
+81,Nampa,ID,"Nampa, ID",58.2,102,137,11,misdemeanor,illegal,3.3846153846153846,787.0,13.0,,,
+82,Los Angeles,CA,"Los Angeles, CA",58.12,43,104,146,legal,legal,4.035211267605634,132539.0,71.0,4.361111111111111,2397.0,36.0
+83,Orlando,FL,"Orlando, FL",58.04,85,24,107,illegal,legal,4.15,23191.0,50.0,3.3333333333333335,25.0,3.0
+84,Portland,OR,"Portland, OR",57.72,92,27,102,legal,legal,4.162037037037037,62976.0,108.0,4.21875,988.0,32.0
+85,Salem,OR,"Salem, OR",57.71,101,29,90,legal,legal,3.776595744680851,4549.0,47.0,3.9,35.0,5.0
+86,Brownsville,TX,"Brownsville, TX",57.55,95,68,88,illegal,CBD oil,3.3947368421052633,433.0,19.0,,,
+87,Pittsburgh,PA,"Pittsburgh, PA",57.45,112,21,60,illegal,legal,4.15,19703.0,50.0,,,
+88,Riverside,CA,"Riverside, CA",57.25,100,22,105,legal,legal,3.71,19407.0,50.0,3.875,9.0,4.0
+89,Fontana,CA,"Fontana, CA",57.23,106,72,50,legal,legal,3.5,3472.0,17.0,,,
+90,New York,NY,"New York, NY",57.1,70,152,74,decriminalized,legal,4.214285714285714,138303.0,84.0,2.5,60.0,4.0
+91,Nashua,NH,"Nashua, NH",57.09,82,100,96,decriminalized,legal,3.28125,2616.0,32.0,,,
+92,Huntsville,AL,"Huntsville, AL",57.0,130,47,22,misdemeanor,illegal,3.6956521739130435,3402.0,46.0,,,
+93,Jersey City,NJ,"Jersey City, NJ",56.85,93,168,33,illegal,legal,4.175,9184.0,20.0,,,
+94,West Valley City,UT,"West Valley City, UT",56.83,103,78,81,misdemeanor,legal,2.5714285714285716,624.0,7.0,,,
+95,Manchester,NH,"Manchester, NH",56.49,96,113,63,decriminalized,legal,3.6184210526315788,4366.0,38.0,,,
+96,Ontario,CA,"Ontario, CA",56.35,107,84,70,legal,legal,3.5294117647058822,13653.0,34.0,,,
+97,San Antonio,TX,"San Antonio, TX",56.34,115,57,55,illegal,CBD oil,4.081632653061225,27443.0,49.0,4.0,35.0,1.0
+98,Amarillo,TX,"Amarillo, TX",56.21,119,45,78,illegal,CBD oil,3.5588235294117645,1028.0,34.0,,,
+99,Vancouver,WA,"Vancouver, WA",56.17,108,97,61,legal,legal,3.9878048780487805,8989.0,41.0,3.8333333333333335,83.0,3.0
+100,Tampa,FL,"Tampa, FL",56.02,121,38,58,illegal,legal,4.11,21152.0,50.0,4.0,13.0,1.0
+101,Miami,FL,"Miami, FL",55.97,63,39,179,illegal,legal,4.203125,31804.0,64.0,4.0,66.0,3.0
+102,Dover,DE,"Dover, DE",55.94,81,61,145,decriminalized,legal,3.3214285714285716,684.0,14.0,,,
+103,Moreno Valley,CA,"Moreno Valley, CA",55.61,111,108,65,legal,legal,3.090909090909091,2549.0,11.0,,,
+104,Glendale,AZ,"Glendale, AZ",55.36,89,159,86,Illegal,legal,3.84375,23820.0,80.0,4.642857142857143,89.0,7.0
+105,Nashville,TN,"Nashville, TN",55.34,126,96,35,misdemeanor,CBD oil,4.11,29481.0,50.0,,,
+106,Houston,TX,"Houston, TX",55.33,69,132,139,illegal,CBD oil,4.15,30686.0,50.0,,,
+107,Chicago,IL,"Chicago, IL",55.2,60,175,114,decriminalized,legal,4.13,80274.0,50.0,4.7,44.0,5.0
+108,Columbia,SC,"Columbia, SC",54.93,137,7,83,misdemeanor,CBD oil,3.7535211267605635,13213.0,71.0,,,
+109,Greensboro,NC,"Greensboro, NC",54.9,97,94,98,decriminalized,CBD oil,3.9081632653061225,6208.0,49.0,,,
+110,Lewiston,ME,"Lewiston, ME",54.55,151,43,84,legal,legal,3.857142857142857,254.0,7.0,,,
+111,Laredo,TX,"Laredo, TX",54.4,75,66,173,illegal,CBD oil,3.2083333333333335,536.0,24.0,,,
+112,Hialeah,FL,"Hialeah, FL",54.33,67,160,169,illegal,legal,3.642857142857143,1140.0,7.0,,,
+113,Henderson,NV,"Henderson, NV",54.13,120,125,53,legal,legal,3.6511627906976742,6031.0,43.0,4.277777777777778,1341.0,9.0
+113,Lexington-Fayette,KY,"Lexington-Fayette, KY",54.13,113,76,112,misdemeanor,CBD oil,,,,,,
+115,Sacramento,CA,"Sacramento, CA",53.96,114,59,118,legal,legal,4.04,43641.0,50.0,3.8181818181818183,518.0,11.0
+116,Modesto,CA,"Modesto, CA",53.5,117,81,121,legal,legal,3.58,8911.0,50.0,3.3333333333333335,33.0,3.0
+117,Newport News,VA,"Newport News, VA",53.29,105,155,128,misdemeanor,CBD oil,3.4464285714285716,2708.0,28.0,,,
+118,Tucson,AZ,"Tucson, AZ",53.19,99,114,134,Illegal,legal,4.06,20100.0,50.0,3.375,46.0,4.0
+119,Springfield,MO,"Springfield, MO",53.03,132,106,71,decriminalized,legal,3.9375,2656.0,48.0,,,
+120,St. Petersburg,FL,"St. Petersburg, FL",52.76,135,25,133,illegal,legal,4.25,2400.0,8.0,,,
+121,Richmond,VA,"Richmond, VA",52.66,104,139,157,misdemeanor,CBD oil,4.0,14259.0,50.0,,,
+122,Tacoma,WA,"Tacoma, WA",52.59,109,140,153,legal,legal,3.97,15618.0,50.0,3.4166666666666665,60.0,6.0
+123,Warwick,RI,"Warwick, RI",52.41,136,44,151,decriminalized,legal,3.7857142857142856,1911.0,14.0,,,
+124,Lubbock,TX,"Lubbock, TX",52.29,133,16,142,illegal,CBD oil,3.5813953488372094,3232.0,43.0,,,
+125,Casper,WY,"Casper, WY",51.99,161,71,97,misdemeanor,CBD oil,3.411764705882353,558.0,17.0,,,
+126,Kansas City,MO,"Kansas City, MO",51.96,110,148,129,decriminalized,legal,4.1923076923076925,20444.0,52.0,5.0,2.0,2.0
+127,Phoenix,AZ,"Phoenix, AZ",51.94,87,136,172,Illegal,legal,4.1923076923076925,30494.0,52.0,3.7125,964.0,40.0
+128,Oklahoma City,OK,"Oklahoma City, OK",51.59,155,110,38,illegal,legal,4.15,11157.0,50.0,5.0,3.0,1.0
+129,Corpus Christi,TX,"Corpus Christi, TX",51.5,145,15,124,illegal,CBD oil,3.608695652173913,3292.0,46.0,,,
+130,Winston-Salem,NC,"Winston-Salem, NC",51.44,116,118,141,decriminalized,CBD oil,3.9166666666666665,3730.0,36.0,,,
+131,Juneau,AK,"Juneau, AK",51.21,160,3,175,legal,legal,3.75,1122.0,18.0,4.0,8.0,3.0
+132,Albuquerque,NM,"Albuquerque, NM",51.15,123,111,150,illegal,legal,3.989795918367347,11218.0,49.0,3.625,62.0,8.0
+133,Columbus,OH,"Columbus, OH",51.14,128,133,111,decriminalized,legal,3.7790697674418605,17952.0,86.0,,,
+134,Bakersfield,CA,"Bakersfield, CA",50.98,139,74,126,legal,legal,3.76,10110.0,50.0,5.0,6.0,2.0
+135,Bridgeport,CT,"Bridgeport, CT",50.92,88,169,161,decriminalized,legal,3.75,1032.0,16.0,,,
+136,Jacksonville,FL,"Jacksonville, FL",50.55,153,95,72,illegal,legal,4.112244897959184,13246.0,49.0,4.0,22.0,1.0
+137,Knoxville,TN,"Knoxville, TN",50.43,166,62,32,misdemeanor,CBD oil,4.05,6963.0,50.0,,,
+138,Louisville,KY,"Louisville, KY",50.31,158,124,42,misdemeanor,CBD oil,4.24,13212.0,50.0,,,
+139,Norfolk,VA,"Norfolk, VA",49.97,129,129,143,misdemeanor,CBD oil,3.8013698630136985,16811.0,73.0,,,
+140,Chattanooga,TN,"Chattanooga, TN",49.94,167,99,40,misdemeanor,CBD oil,4.0212765957446805,8112.0,47.0,,,
+141,Wichita,KS,"Wichita, KS",49.79,138,131,130,misdemeanor,CBD oil,3.7653061224489797,3237.0,49.0,,,
+142,Worcester,MA,"Worcester, MA",49.77,125,149,159,legal,legal,3.7209302325581395,5275.0,43.0,5.0,2.0,2.0
+143,Rochester,NY,"Rochester, NY",49.76,134,142,140,decriminalized,legal,4.053191489361702,7696.0,47.0,,,
+144,San Bernardino,CA,"San Bernardino, CA",49.56,124,134,166,legal,legal,3.4565217391304346,4671.0,23.0,3.0,6.0,1.0
+145,Buffalo,NY,"Buffalo, NY",49.22,144,126,117,decriminalized,legal,4.040816326530612,10683.0,49.0,,,
+146,Fresno,CA,"Fresno, CA",48.86,127,119,158,legal,legal,3.8854166666666665,13169.0,48.0,3.5,3.0,1.0
+147,Milwaukee,WI,"Milwaukee, WI",48.75,122,172,147,misdemeanor,CBD oil,4.17,14898.0,50.0,,,
+148,Baton Rouge,LA,"Baton Rouge, LA",48.56,140,93,168,illegal,legal,3.8541666666666665,4787.0,48.0,,,
+149,Stockton,CA,"Stockton, CA",48.35,118,150,165,legal,legal,3.511627906976744,5254.0,43.0,3.5,68.0,2.0
+150,Spokane,WA,"Spokane, WA",48.08,142,91,176,legal,legal,4.17,10002.0,50.0,4.4,43.0,5.0
+151,Indianapolis,IN,"Indianapolis, IN",47.83,147,177,89,misdemeanor,CBD oil,4.16,17964.0,50.0,,,
+152,Fort Wayne,IN,"Fort Wayne, IN",47.63,152,143,132,misdemeanor,CBD oil,3.625,2434.0,44.0,,,
+153,New Orleans,LA,"New Orleans, LA",47.57,164,127,76,illegal,legal,4.17,38973.0,50.0,,,
+154,North Las Vegas,NV,"North Las Vegas, NV",47.19,157,158,99,legal,legal,4.0,845.0,3.0,3.5,372.0,4.0
+155,Las Vegas,NV,"Las Vegas, NV",47.02,149,146,144,legal,legal,4.1911764705882355,120529.0,102.0,3.6491228070175437,3511.0,57.0
+156,Tulsa,OK,"Tulsa, OK",46.5,170,83,110,illegal,legal,4.122448979591836,7935.0,49.0,,,
+157,Wilmington,DE,"Wilmington, DE",46.32,156,144,154,decriminalized,legal,3.7432432432432434,3621.0,37.0,,,
+158,Providence,RI,"Providence, RI",45.81,169,115,122,decriminalized,legal,4.074324324324325,23897.0,74.0,,,
+159,New Haven,CT,"New Haven, CT",45.56,131,141,182,decriminalized,legal,3.9565217391304346,12624.0,46.0,,,
+160,Montgomery,AL,"Montgomery, AL",45.48,143,176,155,misdemeanor,illegal,3.4642857142857144,1975.0,42.0,,,
+161,Baltimore,MD,"Baltimore, MD",44.75,148,161,177,decriminalized,legal,4.09,19575.0,50.0,4.5,3.0,1.0
+162,Jackson,MS,"Jackson, MS",44.7,150,178,178,decriminalized,CBD oil,3.706896551724138,1215.0,29.0,,,
+163,Shreveport,LA,"Shreveport, LA",44.59,171,173,75,illegal,legal,3.6944444444444446,1402.0,36.0,,,
+164,Memphis,TN,"Memphis, TN",44.45,146,179,156,misdemeanor,CBD oil,3.989795918367347,11405.0,49.0,,,
+165,Philadelphia,PA,"Philadelphia, PA",44.27,168,165,115,illegal,legal,4.13,37190.0,50.0,,,
+166,Columbus,GA,"Columbus, GA",44.27,174,154,109,decriminalized,CBD oil,3.7790697674418605,17952.0,86.0,,,
+167,Fayetteville,NC,"Fayetteville, NC",44.17,159,153,170,decriminalized,CBD oil,3.3902439024390243,3796.0,41.0,,,
+168,Akron,OH,"Akron, OH",44.05,154,166,174,decriminalized,legal,3.792682926829268,2258.0,41.0,,,
+169,Cincinnati,OH,"Cincinnati, OH",43.5,165,145,162,decriminalized,legal,4.24,14930.0,50.0,,,
+170,Fort Smith,AR,"Fort Smith, AR",43.33,176,135,136,Illegal,legal,3.763157894736842,529.0,19.0,,,
+171,Saint Louis,MO,"Saint Louis, MO",42.85,162,170,160,decriminalized,legal,4.074468085106383,14664.0,47.0,,,
+172,Augusta,GA,"Augusta, GA",42.38,175,163,106,decriminalized,CBD oil,3.7083333333333335,4079.0,48.0,,,
+173,Mobile,AL,"Mobile, AL",42.22,172,174,135,misdemeanor,illegal,3.8877551020408165,2767.0,49.0,,,
+174,Newark,NJ,"Newark, NJ",41.86,141,182,180,illegal,legal,3.8055555555555554,5416.0,36.0,,,
+175,Huntington,WV,"Huntington, WV",41.58,182,51,18,misdemeanor,legal,3.9523809523809526,762.0,21.0,,,
+176,Little Rock,AR,"Little Rock, AR",41.4,178,130,101,Illegal,legal,3.75,3853.0,44.0,,,
+177,Gulfport,MS,"Gulfport, MS",41.06,179,162,94,decriminalized,CBD oil,3.325,838.0,20.0,,,
+178,Cleveland,OH,"Cleveland, OH",40.81,163,180,164,decriminalized,legal,4.14,14705.0,50.0,,,
+179,Birmingham,AL,"Birmingham, AL",40.78,173,167,163,misdemeanor,illegal,4.15625,8650.0,48.0,,,
+180,Charleston,WV,"Charleston, WV",39.68,180,65,93,misdemeanor,legal,3.9375,27578.0,72.0,,,
+181,Toledo,OH,"Toledo, OH",39.48,177,171,148,decriminalized,legal,3.607142857142857,2303.0,42.0,,,
+182,Detroit,MI,"Detroit, MI",29.19,181,181,181,legal,legal,4.06,20713.0,50.0,4.0,7.0,3.0

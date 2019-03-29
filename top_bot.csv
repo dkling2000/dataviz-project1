@@ -1,0 +1,31 @@
+Overall Rank,City,State,City/State,Total Score,Emotional & Physical Well-Being,Income & Employment ,Community & Environment,Recreational,Medical,Bars Average Yelp Rating,Bars Count of Reviews,Bar Count,Cannabis Shop Average Yelp Rating,Cannabis Shop Count of Reviews,Cannabis Shop Count,Top 15 Bottom 15
+1,Plano,TX,"Plano, TX",72.3,7,6,8,illegal,CBD oil,3.9285714285714284,16083.0,49.0,,,,Top 15 Cities
+2,Irvine,CA,"Irvine, CA",71.86,14,11,5,legal,legal,3.810344827586207,22953.0,29.0,5.0,6.0,2.0,Top 15 Cities
+3,Madison,WI,"Madison, WI",71.81,3,14,7,misdemeanor,CBD oil,4.05,11387.0,50.0,,,,Top 15 Cities
+4,Fremont,CA,"Fremont, CA",71.17,10,37,1,legal,legal,3.5925925925925926,8745.0,27.0,,,,Top 15 Cities
+5,Huntington Beach,CA,"Huntington Beach, CA",69.74,6,46,28,legal,legal,4.0625,39297.0,56.0,,,,Top 15 Cities
+6,Fargo,ND,"Fargo, ND",69.57,17,20,24,illegal,legal,3.824324324324324,1893.0,37.0,,,,Top 15 Cities
+7,Grand Prairie,TX,"Grand Prairie, TX",69.3,20,35,6,illegal,CBD oil,3.361111111111111,2684.0,18.0,,,,Top 15 Cities
+8,San Jose,CA,"San Jose, CA",68.9,1,18,44,legal,legal,3.82,48780.0,50.0,3.8125,690.0,8.0,Top 15 Cities
+9,Scottsdale,AZ,"Scottsdale, AZ",68.24,46,13,2,Illegal,legal,4.084905660377358,22274.0,53.0,3.5,32.0,1.0,Top 15 Cities
+10,San Francisco,CA,"San Francisco, CA",67.53,4,2,125,legal,legal,4.13,113196.0,50.0,4.3,1173.0,15.0,Top 15 Cities
+11,Bismarck,ND,"Bismarck, ND",67.38,25,4,45,illegal,legal,3.590909090909091,1110.0,22.0,,,,Top 15 Cities
+12,Overland Park,KS,"Overland Park, KS",67.37,22,56,26,misdemeanor,CBD oil,3.6774193548387095,4908.0,31.0,,,,Top 15 Cities
+13,Santa Rosa,CA,"Santa Rosa, CA",67.18,23,53,9,legal,legal,3.8095238095238093,9631.0,42.0,3.5,210.0,1.0,Top 15 Cities
+14,Austin,TX,"Austin, TX",67.16,15,8,80,illegal,CBD oil,4.16,42182.0,50.0,5.0,20.0,1.0,Top 15 Cities
+15,Sioux Falls,SD,"Sioux Falls, SD",66.97,11,67,95,misdemeanor,illegal,3.7282608695652173,2029.0,46.0,,,,Top 15 Cities
+182,Detroit,MI,"Detroit, MI",29.19,181,181,181,legal,legal,4.06,20713.0,50.0,4.0,7.0,3.0,Bottom 15 Cities
+181,Toledo,OH,"Toledo, OH",39.48,177,171,148,decriminalized,legal,3.607142857142857,2303.0,42.0,,,,Bottom 15 Cities
+180,Charleston,WV,"Charleston, WV",39.68,180,65,93,misdemeanor,legal,3.9375,27578.0,72.0,,,,Bottom 15 Cities
+179,Birmingham,AL,"Birmingham, AL",40.78,173,167,163,misdemeanor,illegal,4.15625,8650.0,48.0,,,,Bottom 15 Cities
+178,Cleveland,OH,"Cleveland, OH",40.81,163,180,164,decriminalized,legal,4.14,14705.0,50.0,,,,Bottom 15 Cities
+177,Gulfport,MS,"Gulfport, MS",41.06,179,162,94,decriminalized,CBD oil,3.325,838.0,20.0,,,,Bottom 15 Cities
+176,Little Rock,AR,"Little Rock, AR",41.4,178,130,101,Illegal,legal,3.75,3853.0,44.0,,,,Bottom 15 Cities
+175,Huntington,WV,"Huntington, WV",41.58,182,51,18,misdemeanor,legal,3.9523809523809526,762.0,21.0,,,,Bottom 15 Cities
+174,Newark,NJ,"Newark, NJ",41.86,141,182,180,illegal,legal,3.8055555555555554,5416.0,36.0,,,,Bottom 15 Cities
+173,Mobile,AL,"Mobile, AL",42.22,172,174,135,misdemeanor,illegal,3.8877551020408165,2767.0,49.0,,,,Bottom 15 Cities
+172,Augusta,GA,"Augusta, GA",42.38,175,163,106,decriminalized,CBD oil,3.7083333333333335,4079.0,48.0,,,,Bottom 15 Cities
+171,Saint Louis,MO,"Saint Louis, MO",42.85,162,170,160,decriminalized,legal,4.074468085106383,14664.0,47.0,,,,Bottom 15 Cities
+170,Fort Smith,AR,"Fort Smith, AR",43.33,176,135,136,Illegal,legal,3.763157894736842,529.0,19.0,,,,Bottom 15 Cities
+169,Cincinnati,OH,"Cincinnati, OH",43.5,165,145,162,decriminalized,legal,4.24,14930.0,50.0,,,,Bottom 15 Cities
+168,Akron,OH,"Akron, OH",44.05,154,166,174,decriminalized,legal,3.792682926829268,2258.0,41.0,,,,Bottom 15 Cities
